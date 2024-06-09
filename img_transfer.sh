@@ -1,1 +1,0 @@
-mv /mnt/c/Users/Koi\ Sze\ Ming/Pictures/crochet_imgs/* /home/szeming/personal/crochet/crochet_imgs
