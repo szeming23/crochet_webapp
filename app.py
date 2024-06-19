@@ -7,7 +7,8 @@ img_dir = "/home/szeming/personal/crochet/crochet_imgs/"
 st.title("You're a crocheter, Ogin!")
 
 # Add text
-st.write("Ogin's crochet portfolio. Contact for more info on price.")
+st.write("Ogin's crochet portfolio.")
+st.write("Contact IG: beans.crochets for more info on price.")
 # st.write("Medium: $60")
 # st.write("Large: $100")
 
