@@ -7,12 +7,16 @@ img_dir = "/home/szeming/personal/crochet/crochet_imgs/"
 st.title("You're a crocheter, Ogin!")
 
 # Add text
-st.write("Small: $30")
-st.write("Medium: $60")
-st.write("Large: $100")
+st.write("Ogin's crochet portfolio. Contact for more info on price.")
+# st.write("Medium: $60")
+# st.write("Large: $100")
 
 # Add image
-add_img("cat1.jpg", "Cute Cat (Medium)")
+add_img("cat1.jpg", "Chocolate Cat")
+add_img("dino-two.jpg", "Dino Couple (Mini)")
+add_img("elephant.jpg", "Sleeping Baby Elephant")
+add_img("long-neck-dino.jpg", "Long Neck Dino")
+add_img("dino-pink.jpg", "Baby Dino")
 
 # Get user input
 # name = st.text_input("Enter your name")
